@@ -6,7 +6,6 @@ Mobile version of Proffy.
 
 ## 💻 Dependencies and Technologies used
 
-**Mobile**
 - __[React](https://reactjs.org/)__ 
 - __[Expo](https://expo.io/)__
 - __[React Native](https://reactnative.dev/)__ 
